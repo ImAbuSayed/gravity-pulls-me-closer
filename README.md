@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gravity-pulls-me-closer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Gravity Pulls Me Closer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gravity-pulls-me-closer/) |
+| **Get License** | [Music Rights & Licensing for Gravity Pulls Me Closer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gravity-pulls-me-closer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Gravity pulls me closer to your light
+> A steady burning ember in the quiet night
+> Your touch is like a fire pulling me away
+> A gentle kind of magic making me stay
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
