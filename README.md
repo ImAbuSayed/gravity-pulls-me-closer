@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gravity-pulls-me-closer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Gravity Pulls Me Closer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gravity-pulls-me-closer/) |
+| **Get License** | [Request Licensing for Gravity Pulls Me Closer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gravity-pulls-me-closer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `da2b7fe2e4c01236bc58443700abe4bbd1ee38135be6250e8fca1354203f4066` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
